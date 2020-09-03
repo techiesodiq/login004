@@ -55,7 +55,7 @@ function App() {
 									<h6>We keep everything</h6>
 									<h3>Ready to Login</h3>
 								</div>
-                
+
 								<div className="form-group">
 									<input
 										type="text"
@@ -81,7 +81,6 @@ function App() {
 								<button type="button" className="btn btn-login">
 									Login
 								</button>
-
 							</form>
 						</div>
 					</div>
