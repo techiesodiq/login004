@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/login004/static/css/main.b8c71231.chunk.css",
+    "main.js": "/login004/static/js/main.36f57d91.chunk.js",
+    "main.js.map": "/login004/static/js/main.36f57d91.chunk.js.map",
+    "runtime-main.js": "/login004/static/js/runtime-main.f779b495.js",
+    "runtime-main.js.map": "/login004/static/js/runtime-main.f779b495.js.map",
+    "static/js/2.5a40f7b7.chunk.js": "/login004/static/js/2.5a40f7b7.chunk.js",
+    "static/js/2.5a40f7b7.chunk.js.map": "/login004/static/js/2.5a40f7b7.chunk.js.map",
+    "index.html": "/login004/index.html",
+    "precache-manifest.74a3f3d7b9f922c02ef16041c57088bc.js": "/login004/precache-manifest.74a3f3d7b9f922c02ef16041c57088bc.js",
+    "service-worker.js": "/login004/service-worker.js",
+    "static/css/main.b8c71231.chunk.css.map": "/login004/static/css/main.b8c71231.chunk.css.map",
+    "static/js/2.5a40f7b7.chunk.js.LICENSE.txt": "/login004/static/js/2.5a40f7b7.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/login004/static/media/Wave.9ef697cf.png",
+    "static/media/undraw_authentication_fsn5.svg": "/login004/static/media/undraw_authentication_fsn5.5911f723.svg",
+    "static/media/undraw_fingerprint_swrc.svg": "/login004/static/media/undraw_fingerprint_swrc.597d5277.svg",
+    "static/media/undraw_personal_data_29co.svg": "/login004/static/media/undraw_personal_data_29co.d7b83c26.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f779b495.js",
+    "static/js/2.5a40f7b7.chunk.js",
+    "static/css/main.b8c71231.chunk.css",
+    "static/js/main.36f57d91.chunk.js"
+  ]
+}
